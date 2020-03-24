@@ -1,21 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to amcc
+### The code base of Alistair McClymont
 
-You can use the [editor on GitHub](https://github.com/amcc/amcc.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Some projects
+### p5js
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
+- Lunar Landing [ooooh](https://amcc.github.io/lunarlanding/).
 - List
 
 1. Numbered
