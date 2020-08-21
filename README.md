@@ -11,5 +11,5 @@
 
 ### paperjs
 
-- [meta blobs with text](https://github.com/amcc/paperjs-metablobs-text)
-- [simple meta blobs](https://github.com/amcc/paperjs-metablobs)
+- [meta blobs with text](https://amcc.github.io/paperjs-metablobs-text)
+- [simple meta blobs](https://amcc.github.io/paperjs-metablobs)
