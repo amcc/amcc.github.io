@@ -5,7 +5,6 @@
 ## Some projects
 ### p5js
 
-- [Covid](https://amcc.github.io/covid/)
 - [Darkmoon](https://amcc.github.io/darkmoon/)
 - [Lightmoon](https://amcc.github.io/lightmoon/)
 - [Lunar Landing](https://amcc.github.io/lunarlanding/)
