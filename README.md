@@ -8,6 +8,8 @@
 - [Darkmoon](https://amcc.github.io/darkmoon/)
 - [Lightmoon](https://amcc.github.io/lightmoon/)
 - [Lunar Landing](https://amcc.github.io/lunarlanding/)
+- [Unknown Pleasures](https://amcc.github.io/unknown-pleasures/)
+- [Unknown Pleasures - sound visualiser](https://amcc.github.io/unknown-pleasures-blue/)
 
 ### paperjs
 
