@@ -1,5 +1,6 @@
 ## Welcome to amcc
-### Some projects by Alistair McClymont
+## https://amcc.io/
+
 
 
 ## Some projects
