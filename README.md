@@ -1,11 +1,9 @@
 ## Welcome to amcc
 ## https://amcc.io/
 
-## Some projects
-
 ### CSS / SVG / HTML
 - [SVG Rainbow Circle](https://lab.amcc.io/svg-rainbow-circle/)
-- [More SVG Circles]https://lab.amcc.io/svg-css-circles)
+- [More SVG Circles](https://lab.amcc.io/svg-css-circles)
 
 ### p5js
 
