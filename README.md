@@ -1,4 +1,4 @@
-## Welcome to amcc
+## https://github.com/amcc
 ## https://amcc.io/
 
 ### CSS / SVG / HTML
