@@ -25,3 +25,8 @@
 
 - [meta blobs with text](https://amcc.github.io/paperjs-metablobs-text)
 - [simple meta blobs](https://amcc.github.io/paperjs-metablobs)
+
+### slides
+
+- [Responsive Design](https://amcc.github.io/btf-responsive-design)
+- [Paper Prototyping](https://amcc.github.io/btf-paper-prototyping)
