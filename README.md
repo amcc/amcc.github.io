@@ -28,5 +28,6 @@
 
 ### slides
 
+- [The web](https://theweb.gmdlcc.com)
 - [Responsive Design](https://amcc.github.io/btf-responsive-design)
 - [Paper Prototyping](https://amcc.github.io/btf-paper-prototyping)
